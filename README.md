@@ -33,3 +33,19 @@ Since these recording were taken using Tucker-Davis Technology (TDT) fiber photo
   (Bottom Left): Z-Score Epoch Response for all trials
   (Bottom Right): Area under the curve 2 seconds pre and post event onset
   ![image](https://user-images.githubusercontent.com/60552089/184725087-15238505-1cd9-4a29-a419-587a3303edb5.png)
+  
+  ### Analysis of calcium transients in non-contingent (experimenter-controlled) dHPC stimulation (Fig 4A-D; SFig 1E-H).
+1) Open the Photometry and experimenter folder and download both the example data folder (FP_Experimeter_Example-220602-162235) and the Matlab code (PhotometryZScoreAnalysis_forScore_experimenter_15Aug22).
+2) Ensure that the example data folder copied into MATLAB\TDTMatlabSDK\Examples\ directory.
+3) Open the code (PhotometryZScoreAnalysis_forScore_experimenter_15Aug22) in your Matlab program.
+4) Ensure that the BLOCKPATH is reading from the correct data folder, which is in this case is 'FP_Experimeter_Example-220602-162235'
+![image](https://user-images.githubusercontent.com/60552089/184731992-51935248-16fe-47db-9e8c-917a4bf99cc7.png)
+5) In this code, variable value is 1 which has been paired with experimenter delivered stimulation.
+![image](https://user-images.githubusercontent.com/60552089/184732278-8c16c8e6-9554-499a-96b2-4b9e184827db.png)
+6) Run the code!
+7) You should get the following output in a separate window:
+  (Top Left): Epoch Response from both 470 and 405 channels with onset at 0s
+  (Top Right): Z-Score heatmap for all the trials recorded in this example data
+  (Bottom Left): Z-Score Epoch Response for all trials
+  (Bottom Right): Area under the curve 2 seconds pre and post event onset
+  ![image](https://user-images.githubusercontent.com/60552089/184732491-3033da72-f0a7-4741-8165-27fef638ffb9.png)
