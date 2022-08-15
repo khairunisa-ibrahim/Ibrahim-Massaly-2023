@@ -2,7 +2,7 @@
 Codes used to analyze fiber photometry experiments in "Dorsal Hippocampus To Nucleus Accumbens Projections Drive Reinforcement Via Activation of Accumbal Dynorphin Neurons" manuscript.
 
 ## Overview
-There are two different custom MAtlab codes used in this manuscript. 
+There are two different custom MATLAB codes used in this manuscript. 
 1) To analyze calcium transients paired with dHPC stimulation in the self-stimulation paradigm (Fig 2G-J) and to cue onset (SFig 1A-D).
 2) To analyze calcium transients paired with non-contingent (experimenter-controlled) dHPC stimulation (Fig 4A-D; SFig 1E-H)
 
