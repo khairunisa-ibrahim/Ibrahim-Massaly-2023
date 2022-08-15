@@ -17,7 +17,7 @@ Documentation on how to install Matlab and license required to run the program c
 
 Since these recording were taken using Tucker-Davis Technology (TDT) fiber photometry system, a MATLAB SDK file is required to read TDT file directly into MATLAB post-recording. This SDK file and documentation can be found on TDT website (https://www.tdt.com/docs/sdk/offline-data-analysis/offline-data-matlab/getting-started/). Add the TDTMatlabSDK folder into the computer Matlab folder.
 
-## How To Use
+## How To Use.
 ### Analysis of calcium transients in self-stimulation paradigm (Fig 2G-J and SFig 1A-D).
 1) Open the Photometry and self-stim folder and download both the example data folder (FP_SelfStim_Example-201130-083802) and the Matlab code (PhotometryZScoreAnalysis_forPtAB_selfstim_15Aug22).
 2) Ensure that the example data folder copied into MATLAB\TDTMatlabSDK\Examples\ directory.
