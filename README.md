@@ -20,10 +20,10 @@ Since these recording were taken using Tucker-Davis Technology (TDT) fiber photo
 ## How To Use
 ### Analysis of calcium transients in self-stimulation paradigm (Fig 2G-J and SFig 1A-D).
 1) Open the `Photometry and self-stim` folder and download the Matlab code (PhotometryZScoreAnalysis_forPtAB_selfstim_15Aug22).
-2) Download both the example data folder from [this link](https://wustl.box.com/s/u0dy3uubmhw614c00cquz4iot8l53eab)
-3) Unzip the example data folder and ensure that folder is copied into MATLAB\TDTMatlabSDK\Examples\ directory.
+2) Download the example data folder from [this link](https://wustl.box.com/s/u0dy3uubmhw614c00cquz4iot8l53eab)
+3) Unzip the example data folder and ensure that folder is copied into `MATLAB\TDTMatlabSDK\Examples\` directory.
 4) Open the code (PhotometryZScoreAnalysis_forPtAB_selfstim_15Aug22) in your Matlab program.
-5) Ensure that the BLOCKPATH is reading from the correct data folder, which is in this case is 'FP_SelfStim_Example-201130-083802'
+5) Ensure that the BLOCKPATH is reading from the correct data folder, which is in this case is `'FP_SelfStim_Example-201130-083802'`
 ![image](https://user-images.githubusercontent.com/60552089/184723906-000f999b-bf3f-462b-b38c-363d912677db.png)
 6) Set up the variable that you want to extract. In this code, variable value 1 is cue onset and variable value 6 is photo-stimulation
 ![image](https://user-images.githubusercontent.com/60552089/184724343-c0da6555-ca0c-4fbc-a75f-2c672a46dd9d.png)
@@ -37,10 +37,10 @@ Since these recording were taken using Tucker-Davis Technology (TDT) fiber photo
   
   ### Analysis of calcium transients in non-contingent (experimenter-controlled) dHPC stimulation (Fig 4A-D; SFig 1E-H).
 1) Open the `Photometry and experimenter` folder and download the Matlab code (PhotometryZScoreAnalysis_forScore_experimenter_15Aug22).
-2) Download both the example data folder from [this link](https://wustl.box.com/s/tacboojptlf621ndnv26f6iyd4t65k83)
-3) Unzip the example data folder and ensure that folder is copied into MATLAB\TDTMatlabSDK\Examples\ directory.
+2) Download the example data folder from [this link](https://wustl.box.com/s/tacboojptlf621ndnv26f6iyd4t65k83)
+3) Unzip the example data folder and ensure that folder is copied into `MATLAB\TDTMatlabSDK\Examples\` directory.
 4) Open the code (PhotometryZScoreAnalysis_forScore_experimenter_15Aug22) in your Matlab program.
-5) Ensure that the BLOCKPATH is reading from the correct data folder, which is in this case is 'FP_Experimeter_Example-220602-162235'
+5) Ensure that the BLOCKPATH is reading from the correct data folder, which is in this case is `'FP_Experimeter_Example-220602-162235'`
 ![image](https://user-images.githubusercontent.com/60552089/184731992-51935248-16fe-47db-9e8c-917a4bf99cc7.png)
 6) In this code, variable value is 1 which has been paired with experimenter delivered stimulation.
 ![image](https://user-images.githubusercontent.com/60552089/184732278-8c16c8e6-9554-499a-96b2-4b9e184827db.png)
