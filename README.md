@@ -51,3 +51,6 @@ Since these recording were taken using Tucker-Davis Technology (TDT) fiber photo
   (Bottom Left): Z-Score Epoch Response for all trials<br>
   (Bottom Right): Area under the curve 2 seconds pre and post event onset
   ![image](https://user-images.githubusercontent.com/60552089/184732491-3033da72-f0a7-4741-8165-27fef638ffb9.png)
+  
+  ## License
+  [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
