@@ -28,10 +28,10 @@ Since these recording were taken using Tucker-Davis Technology (TDT) fiber photo
 6) Set up the variable that you want to extract. In this code, variable value 1 is cue onset and variable value 6 is photo-stimulation
 ![image](https://user-images.githubusercontent.com/60552089/184724343-c0da6555-ca0c-4fbc-a75f-2c672a46dd9d.png)
 7) Run the code!
-8) You should get the following output in a separate window:
-  (Top Left): Epoch Response from both 470 and 405 channels with onset at 0s
-  (Top Right): Z-Score heatmap for all the trials recorded in this example data
-  (Bottom Left): Z-Score Epoch Response for all trials
+8) You should get the following output in a separate window within a minute:<br>
+  (Top Left): Epoch Response from both 470 and 405 channels with onset at 0s<br>
+  (Top Right): Z-Score heatmap for all the trials recorded in this example data<br>
+  (Bottom Left): Z-Score Epoch Response for all trials<br>
   (Bottom Right): Area under the curve 2 seconds pre and post event onset
   ![image](https://user-images.githubusercontent.com/60552089/184725087-15238505-1cd9-4a29-a419-587a3303edb5.png)
   
@@ -45,9 +45,9 @@ Since these recording were taken using Tucker-Davis Technology (TDT) fiber photo
 6) In this code, variable value is 1 which has been paired with experimenter delivered stimulation.
 ![image](https://user-images.githubusercontent.com/60552089/184732278-8c16c8e6-9554-499a-96b2-4b9e184827db.png)
 7) Run the code!
-8) You should get the following output in a separate window:
-  (Top Left): Epoch Response from both 470 and 405 channels with onset at 0s
-  (Top Right): Z-Score heatmap for all the trials recorded in this example data
-  (Bottom Left): Z-Score Epoch Response for all trials
+8) You should get the following output in a separate window within a minute:<br>
+  (Top Left): Epoch Response from both 470 and 405 channels with onset at 0s<br>
+  (Top Right): Z-Score heatmap for all the trials recorded in this example data<br>
+  (Bottom Left): Z-Score Epoch Response for all trials<br>
   (Bottom Right): Area under the curve 2 seconds pre and post event onset
   ![image](https://user-images.githubusercontent.com/60552089/184732491-3033da72-f0a7-4741-8165-27fef638ffb9.png)
