@@ -1,10 +1,10 @@
-# Massaly-Ibrahim-2022
+# Ibrahim-Massaly-2023
 Codes used to analyze fiber photometry experiments in "Dorsal Hippocampus To Nucleus Accumbens Projections Drive Reinforcement Via Activation of Accumbal Dynorphin Neurons" manuscript.
 
 ## Overview
 There are two different custom MATLAB codes used in this manuscript. 
-1) To analyze calcium transients paired with dHPC stimulation in the self-stimulation paradigm (Fig 2G-J) and to cue onset (SFig 1A-D).
-2) To analyze calcium transients paired with non-contingent (experimenter-controlled) dHPC stimulation (Fig 4A-D; SFig 1E-H)
+1) To analyze calcium transients paired with dHPC stimulation in the self-stimulation paradigm (Fig 2I-M) and to cue onset (SFig 2A-D).
+2) To analyze calcium transients paired with non-contingent (experimenter-controlled) dHPC stimulation (Fig 5A-D; SFig 2E-H)
 
 ## System Requirements
 ### Hardware requirements
@@ -18,7 +18,7 @@ Documentation on how to install Matlab and license required to run the program c
 Since these recording were taken using Tucker-Davis Technology (TDT) fiber photometry system, a MATLAB SDK file is required to read TDT file directly into MATLAB post-recording. This SDK file and documentation can be found on TDT website (https://www.tdt.com/docs/sdk/offline-data-analysis/offline-data-matlab/getting-started/). Add the TDTMatlabSDK folder into the computer Matlab folder.
 
 ## How To Use
-### Analysis of calcium transients in self-stimulation paradigm (Fig 2G-J and SFig 1A-D).
+### Analysis of calcium transients in self-stimulation paradigm (Fig 2I-M and SFig 2A-D).
 1) Open the `Photometry and self-stim` folder and download the Matlab code (PhotometryZScoreAnalysis_forPtAB_selfstim_15Aug22).
 2) Download the example data folder from [this link](https://wustl.box.com/s/u0dy3uubmhw614c00cquz4iot8l53eab)
 3) Unzip the example data folder and ensure that folder is copied into `MATLAB\TDTMatlabSDK\Examples\` directory.
@@ -35,7 +35,7 @@ Since these recording were taken using Tucker-Davis Technology (TDT) fiber photo
   (Bottom Right): Area under the curve 2 seconds pre and post event onset
   ![image](https://user-images.githubusercontent.com/60552089/184725087-15238505-1cd9-4a29-a419-587a3303edb5.png)
   
-  ### Analysis of calcium transients in non-contingent (experimenter-controlled) dHPC stimulation (Fig 4A-D; SFig 1E-H).
+  ### Analysis of calcium transients in non-contingent (experimenter-controlled) dHPC stimulation (Fig 5A-D; SFig 2E-H).
 1) Open the `Photometry and experimenter` folder and download the Matlab code (PhotometryZScoreAnalysis_forScore_experimenter_15Aug22).
 2) Download the example data folder from [this link](https://wustl.box.com/s/tacboojptlf621ndnv26f6iyd4t65k83)
 3) Unzip the example data folder and ensure that folder is copied into `MATLAB\TDTMatlabSDK\Examples\` directory.
