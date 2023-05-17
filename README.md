@@ -20,7 +20,7 @@ Since these recording were taken using Tucker-Davis Technology (TDT) fiber photo
 ## How To Use
 ### Analysis of calcium transients in self-stimulation paradigm (Fig 2I-M and SFig 2A-D).
 1) Open the `Photometry and self-stim` folder and download the Matlab code (PhotometryZScoreAnalysis_forPtAB_selfstim_15Aug22).
-2) Download the example data folder from [this link](https://wustl.box.com/s/u0dy3uubmhw614c00cquz4iot8l53eab)
+2) Download the example data folder from [this link](https://wustl.box.com/s/jnqzgpxcr0bk0np4x3y8txr1j2n38jj1)
 3) Unzip the example data folder and ensure that folder is copied into `MATLAB\TDTMatlabSDK\Examples\` directory.
 4) Open the code (PhotometryZScoreAnalysis_forPtAB_selfstim_15Aug22) in your Matlab program.
 5) Ensure that the BLOCKPATH is reading from the correct data folder, which is in this case is `'FP_SelfStim_Example-201130-083802'`
@@ -37,7 +37,7 @@ Since these recording were taken using Tucker-Davis Technology (TDT) fiber photo
   
   ### Analysis of calcium transients in non-contingent (experimenter-controlled) dHPC stimulation (Fig 5A-D; SFig 2E-H).
 1) Open the `Photometry and experimenter` folder and download the Matlab code (PhotometryZScoreAnalysis_forScore_experimenter_15Aug22).
-2) Download the example data folder from [this link](https://wustl.box.com/s/tacboojptlf621ndnv26f6iyd4t65k83)
+2) Download the example data folder from [this link](https://wustl.box.com/s/p9x0z8gjos9s4wczwp6sn3ix3t2qrbdf)
 3) Unzip the example data folder and ensure that folder is copied into `MATLAB\TDTMatlabSDK\Examples\` directory.
 4) Open the code (PhotometryZScoreAnalysis_forScore_experimenter_15Aug22) in your Matlab program.
 5) Ensure that the BLOCKPATH is reading from the correct data folder, which is in this case is `'FP_Experimeter_Example-220602-162235'`
